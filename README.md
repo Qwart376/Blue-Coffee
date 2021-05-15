@@ -1,7 +1,8 @@
 # Blue-Coffee
 Minimalistic theme for LeftWM 
 
-Built on Coffee by Lex Childs
+
+Built on Coffee theme by Lex Childs
 
 I don't own the picture. Author cannot be pinpointed due to massive amount of uploads of his work
 
